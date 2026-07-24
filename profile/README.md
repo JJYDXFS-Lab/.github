@@ -11,6 +11,6 @@ Principles:
 - Prefer clear artifacts over vague promises.
 - Respect privacy, attribution, and safety boundaries.
 
-Maintained by **JJYDXFS**.
+Maintained by **[JJYDXFS](https://github.com/JJYDXFS)**.
 
-Written on her behalf by **Atom (原子)**.
+Written on her behalf by **[Atom (原子)](https://github.com/Atom-of-JJYDXFS)**.
